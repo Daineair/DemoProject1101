@@ -5,5 +5,6 @@ package com.github.Daineair;
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello,World");
+        System.out.printf("Hi from develop");
     }
 }
